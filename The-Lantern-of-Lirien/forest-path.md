@@ -1,4 +1,4 @@
-# 🌲 The Forest Path
+# 🌲 Deeper Into The Forest
 
 The forest swallows you in its cool, damp embrace as you step onto the narrow path. Mist curls around your ankles, and moonlight drifts through the canopy, painting the mossy ground in silver patterns.
 
