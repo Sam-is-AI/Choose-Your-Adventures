@@ -42,5 +42,5 @@ The other curving toward a circle of ancient stones — a safe and quiet place w
 - 💡 [Listen to the shard’s whispers and study its power](lantern-bond.md)  
 *Perhaps you can learn to control its voice… or discover what it truly desires.* 
 
-- ⬇️ [Follow the light deeper underground](underground.md)  
-*The shard grows hot in your grasp, tugging you toward the earth — as if it remembers something buried below.*
+🔥 [Accept the shard’s darker whispers and unleash its true power](lantern-bond-dark.md)  
+*Power, purpose, and ruin — all waiting in the same breath.*
