@@ -19,8 +19,5 @@ You clutch the charm the elder gave you. A faint blue glow emanates from it, str
 *You speak gently, holding the elder’s charm forward. The guardian pauses, sniffing the air. After a tense moment, it inclines its head and gestures toward a faintly glowing clearing deeper in the forest.*  
 *You discover a **fragment of the secret map** here, guiding your next steps.*
 
-- ⚔️ [Challenge the guardian to a **fight**](underground.md)  
-*Armed with knowledge from the elder, you attempt to confront the guardian. Sparks fly and branches snap as you clash. The guardian tests your strength — if successful, it leads you to a **hidden underground tunnel**; if not, you are forced to retreat and reconsider your approach.*
-
 - 🌌 [Follow the **glowing area** beyond the trees](glowing-area.md)  
 *The faint light the elder mentioned shimmers through the fog. Guided by her charm, you approach cautiously. The clearing opens to reveal magical glyphs etched into stones — a sign that you are on the right path.*
