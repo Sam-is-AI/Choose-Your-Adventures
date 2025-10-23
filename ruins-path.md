@@ -13,6 +13,8 @@ From the shadows steps a hooded figure, holding a shard of radiant light that se
 
 The runes beneath your feet start to flicker — a spell awakening.
 
+[ ](images/ruins.png "Ruins") 
+
 ---
 
 ## 🕯️ What will you do?
