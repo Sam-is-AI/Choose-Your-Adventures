@@ -19,9 +19,6 @@ The tavern suddenly feels much quieter. Eyes turn toward you, waiting to see wha
 
 ## 💬 What will you do?
 
-- 🔦 [Descend into the tavern cellar](cellar-secret.md)  
-*The barkeep’s warning echoes in your mind as you lift the trapdoor.*  
-
 - 🍺 [Drink some beer](start.md)
 *You could drink this stuff for hours.*
 
