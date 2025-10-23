@@ -5,8 +5,6 @@ The cottage of **Elder Merin** stands crooked at the far edge of Lirien, half-bu
 Inside, shelves sag under the weight of bottles and bones, and a single blue lantern flickers weakly on the table.  
 The elder’s eyes lift to meet yours, sharp and knowing.
 
----
-
 > “So… the Lantern’s heart fades, does it?” she murmurs.  
 > “It’s been calling to those with courage — or foolishness.”
 
