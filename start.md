@@ -1,8 +1,19 @@
-# The Lantern of Lirien - Start
+# 🌒 The Lantern of Lirien - Start
 
-You arrive at the edge of Lirien as dusk falls. Lanterns float in the mist; an old woman watches from the bridge.
+You arrive at the edge of **Lirien** as dusk falls, a small town shrouded in silver mist.  
+The cobblestone road glows faintly beneath floating lanterns that never seem to burn out.  
+They say one lantern — *the Lantern of Lirien* — holds the spirit of the town itself.  
+But lately, its light has begun to fade.
 
-**Choices**
-- [Visit the elder](meeting-the-elder.md)
-- [Head to the tarven](tarven-clues.md)
-- [Walk toward the ruined tower](ruins-path.md)
+As you cross the creaking bridge, an old woman in a hooded cloak watches you closely.  
+Her voice is a whisper carried on the fog:
+
+>🌫️"The Lantern is dying... and with it, so will we.
+>Find the truth before the final light goes out."
+
+You feel a chill crawl down your spine.
+The mist thickens - and three paths open before you.
+
+---
+
+## ✨ What will you do?
