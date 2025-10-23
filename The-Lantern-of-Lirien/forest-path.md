@@ -18,17 +18,4 @@ The runes’ vision guides you, and a tingling sensation along your skin reminds
 - ⚠️ [Approach the glowing area]  
   *A faint glow pulses among the roots, but you cannot discern its secrets yet. Perhaps someone with knowledge could guide you.*
 
-- ⬅️ [Return to the village crossroads](start.md)  
-
----
-
-### ✨ If you have received the elder’s charm:
-
-- 🌟 [Approach the glowing area with the elder’s charm](secret-map.md)
-  *The charm reacts with the glow, revealing a hidden map fragment and paths previously invisible. You realize there is more to this forest than meets the eye.*
-
-- 🕳️ [Investigate a hidden tunnel revealed by the glow](underground.md)
-*Beneath the roots, a narrow opening leads downward into the earth. The air is cool, damp, and smells faintly of old stone and magic.*
-
-- 🏘️ [Return to Elder Merin for guidance](meeting-the-elder-2.md)
-*Perhaps she can provide more insight about the forest, the glow, or dangers that may lie ahead.*
+- ⬅️ [Return to the village crossroads](start.md)
