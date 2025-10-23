@@ -5,7 +5,7 @@ The cottage of **Elder Merin** stands crooked at the far edge of Lirien, half-bu
 Inside, shelves sag under the weight of bottles and bones, and a single blue lantern flickers weakly on the table.  
 The elder’s eyes lift to meet yours, sharp and knowing.
 
-> "so... the Lantern's heart fades, does it? she murmurs.
+> "So... the Lantern's heart fades, does it? she murmurs.
 > "It's been calling to those with courage - or foolishness."
 
 She gestures to an old parchment covered in spiraling runes. One symbol pulses faintly when your hand nears it.
