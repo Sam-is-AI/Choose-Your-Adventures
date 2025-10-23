@@ -23,6 +23,3 @@ You pause, realizing that **the forest is alive**, testing your choices and obse
 
 - 🛤️ [Follow the main trail straight ahead](ruins-path.md)  
   *Safer, but slower — the glow is faint, and clues may be harder to find. You might encounter remnants of ancient magic left by a previous seeker.*  
-
-- 🌿 [Venture into the undergrowth on the right](secret-map.md)  
-  *Risky and hidden, but you could discover a secret path or a fragment of the Lantern’s power. Stealth, wit, and careful observation will be key.*
