@@ -17,3 +17,16 @@ The mist thickens - and three paths open before you.
 ---
 
 ## ✨ What will you do?
+
+- 🔮 [Visit the Elder's House](meeting-the-elder.md)
+*Maybe the town elder knows more about the dying Lantern.*
+
+- 🍺 [Head to the Tavern](tavern.md)
+ *Locals might talk after a drink or two — if you’re willing to listen.*
+
+ - 🏰 [Walk Toward the Ruined Tower](ruins-path.md)
+ *Old magic lingers there… and perhaps old danger too.*
+
+ ---
+ 
+ *Choose wisely. Every path brings you closer to the truth — or to the dark that waits beyond the Lantern’s light.*
