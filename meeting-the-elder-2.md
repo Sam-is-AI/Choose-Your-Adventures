@@ -11,7 +11,7 @@ She hands you a small pendant glowing with soft light. Its warmth spreads into y
 
 ## 🌙 What will you do?
 
-- 🌲 [Return to the forest path with the charm](forest-path.md)  
+- 🌲 [Return to the forest path with the charm](forest-path-after-elder.md)  
   *The glow that once teased you now responds to the charm, revealing paths previously hidden.*
 
 - 🏘️ [Stay and ask the elder more questions](meeting-the-elder-2.md)  

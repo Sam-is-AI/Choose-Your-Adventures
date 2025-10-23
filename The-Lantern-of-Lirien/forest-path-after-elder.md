@@ -20,8 +20,5 @@ The path splits again — deeper into the trees or toward a low stone archway le
 - ⬇️ [Enter the archway leading underground](underground.md)  
   *A damp, earthy scent rises from the tunnel. The path seems dangerous but could reveal secrets lost to time.*
 
-- 🌲 [Continue further along the forest path](forest-encounter.md)  
+- 🌲 [Continue further along the forest path](forest-encounter-after-elder.md)  
   *The guardian waits ahead — every step may be a challenge.*
-
-- 🏘️ [Return to Elder Merin for guidance](meeting-the-elder-2.md)  
-  *Perhaps she can offer advice, a charm, or a warning before you take the next step.*
