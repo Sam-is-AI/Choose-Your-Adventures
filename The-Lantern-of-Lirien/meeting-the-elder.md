@@ -7,8 +7,6 @@ The elder’s eyes lift to meet yours, sharp and knowing.
 
 ---
 
-## First Meeting
-
 > “So… the Lantern’s heart fades, does it?” she murmurs.  
 > “It’s been calling to those with courage — or foolishness.”
 
