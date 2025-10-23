@@ -13,6 +13,8 @@ At the same time, a group of miners at a nearby table whisper urgently, shoving 
 
 The tavern suddenly feels much quieter. Eyes turn toward you, waiting to see what you'll do.
 
+![ ](images/tavern.png "Tavern")
+
 ---
 
 ## 💬 What will you do?
