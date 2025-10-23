@@ -29,6 +29,3 @@ The runes’ vision guides you, and a tingling sensation along your skin reminds
 
 - 🕳️ [Investigate a hidden tunnel revealed by the glow](underground.md)
 *Beneath the roots, a narrow opening leads downward into the earth. The air is cool, damp, and smells faintly of old stone and magic.*
-
-- 🏘️ [Return to Elder Merin for guidance](meeting-the-elder-2.md)
-*Perhaps she can provide more insight about the forest, the glow, or dangers that may lie ahead.*
