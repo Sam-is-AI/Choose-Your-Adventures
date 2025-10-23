@@ -16,5 +16,5 @@ The glow seems to react to your presence. Every step closer makes the air shimme
 - 🔮 [Approach the center of the clearing](lantern-shrine.md)  
 *The pulsing light grows stronger as you step closer. Something important waits at its heart.*
 
-- 🌲 [Investigate the glowing patterns on the ground](forest-path-death.md)  
+- 🌲 [Investigate the glowing patterns on the ground](forest-encounter.md)  
 *Perhaps they mark a path deeper into the forest or hint at hidden dangers.*
