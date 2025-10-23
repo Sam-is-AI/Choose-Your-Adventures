@@ -13,7 +13,7 @@ You raise your weapon, heart pounding, and lunge forward. But the guardian **is 
 
 The forest grows silent again, the only sound your ragged breathing. Slowly, your vision fades as the guardian looms over you, victorious.
 
-[ ](images/him.png "Him")
+![ ](images/him.png "Him")
 
 ---
 
