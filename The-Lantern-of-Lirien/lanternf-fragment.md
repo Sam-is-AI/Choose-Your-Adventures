@@ -38,3 +38,9 @@ The other curving toward a circle of ancient stones — a safe and quiet place w
 ---
 
 ## 🌙 What will you do?
+
+- 💡 [Listen to the shard’s whispers and study its power](lantern-bond.md)  
+*Perhaps you can learn to control its voice… or discover what it truly desires.* 
+
+- ⬇️ [Follow the light deeper underground](underground.md)  
+*The shard grows hot in your grasp, tugging you toward the earth — as if it remembers something buried below.*
