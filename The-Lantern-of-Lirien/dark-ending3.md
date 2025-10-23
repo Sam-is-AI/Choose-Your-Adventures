@@ -47,3 +47,5 @@ the last memory of who you were before the flame consumed your name.
 > *Light, without shadow, is nothing but fire.*
 
 And so the Lantern burns on — not as a promise… but as a warning.
+
+- [Go back](lantern-bond-dark.md)

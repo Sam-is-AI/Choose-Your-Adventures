@@ -23,3 +23,7 @@ You have become the Lantern incarnate — unstoppable, divine, and utterly alone
 
 **🏁 Ending Achieved: The Flame Incarnate**  
 *You have merged fully with the Lantern’s corrupted power. The world trembles under your awakening. No redemption remains — only absolute dominion.*
+
+---
+
+- [Go back](lantern-bond-dark.md)

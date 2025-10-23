@@ -18,3 +18,7 @@ You leave, the world subtly bending to your will. You are no longer just yoursel
 
 **🏁 Ending Achieved: The Corrupted Apprentice**  
 *You either walk away partially cleansed but haunted, or fully embrace the shard’s dark gift. Either way, your path is forever changed.*
+
+---
+
+- [Go back](lantern-bond-dark.md)
