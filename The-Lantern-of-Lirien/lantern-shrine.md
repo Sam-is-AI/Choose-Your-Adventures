@@ -16,8 +16,5 @@ Moss-covered patterns on the ground form a spiral leading both deeper into the f
 - 🔮 [Take the shard from the pedestal](lantern-fragment.md)  
 *The shard warms your hand. You feel a surge of power, and a sense of responsibility settles upon you.*
 
-- 🌲 [Follow the glowing spiral deeper into the forest](forest-encounter.md)  
-*The patterns on the ground seem to guide you toward a hidden guardian or secret location.*
-
 - ⬇️ [Descend into the underground tunnel revealed by the light](underground.md)  
 *A narrow passage opens beneath the pedestal. This might lead directly to the Lantern’s hidden chamber.*  
