@@ -17,4 +17,3 @@ You hear a faint hum from the forest beyond her window — a light flickering th
 ---
 
 ## 🌙 What will you do?
-
