@@ -14,6 +14,8 @@ She gestures to an old parchment covered in spiraling runes. One symbol pulses f
 
 You hear a faint hum from the forest beyond her window — a light flickering through the trees.
 
+![ ](images/elder.png "Meeting the Elder")
+
 ---
 
 ## 🌙 What will you do?
