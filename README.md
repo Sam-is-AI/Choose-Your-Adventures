@@ -18,7 +18,7 @@ The choices you make will decide whether the Lantern’s light is restored… or
 ## 🎮 How to Begin
 Click below to start you journey:
 
-👉 **[Begin the Adventure](start.md)**
+👉 **[Begin the Adventure](https://github.com/Sam-is-AI/The-Lantern-of-Lirien/blob/dev/The-Lantern-of-Lirien/start.md)**
 
 ---
 
