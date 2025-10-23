@@ -16,3 +16,12 @@ The runes beneath your feet start to flicker — a spell awakening.
 ---
 
 ## 🕯️ What will you do?
+
+- ⚔️ [Confront the mysterious figure](confront-figure.md)  
+*You draw your blade, the air trembling with power.*  
+
+- 🪶 [Speak calmly and ask what they mean](speak-to-shadow.md)  
+  *Perhaps there’s truth hidden behind their bitterness.*  
+
+- ⬅️ [Retreat and return to the crossroads](start.md)  
+  *You need to prepare before facing them again.*
