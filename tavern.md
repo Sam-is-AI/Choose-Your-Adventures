@@ -16,3 +16,12 @@ The tavern suddenly feels much quieter. Eyes turn toward you, waiting to see wha
 ---
 
 ## 💬 What will you do?
+
+- 🔦 [Descend into the tavern cellar](cellar-secret.md)  
+  *The barkeep’s warning echoes in your mind as you lift the trapdoor.*  
+
+- ⛏️ [Approach the miners and ask about the glowing crystal](miners-story.md)  
+  *Maybe their discovery connects to the Lantern’s fading light.*  
+
+- ⬅️ [Return to the crossroads](start.md)  
+  *You might gather more clues elsewhere before making your move.*
