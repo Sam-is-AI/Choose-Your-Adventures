@@ -22,8 +22,7 @@ You hear a faint hum from the forest beyond her window — a light flickering th
 *perhaps you can uncover its power before it fades.*
 
 - 🌲[Leave the cottage and follwo the light inot the forest](forest-path.md)
-*It could lead you to the thief - or to[Return to the crossroads](start.md)  
-*Maybe the answers lie elsewhere for now.*
+*It could lead you to the thief - or to something much worse.*  
 
 - ⬅️ [Return to the crossroads](start.md)  
 *Maybe the answers lie elsewhere for now.*
