@@ -63,5 +63,5 @@ The shadows themselves bow.
 - 🧓 [Return to Elder Merin for answers](meeting-the-elder2.md)  
 *Perhaps she can still save what’s left of you — or put an end to what you’ve become.*  
 
-- 🌑 [Vanish into the night](shadow-path.md)  
-*The world will remember your flame. Whether as savior or scourge… only time will tell.*
+- 🔥 [Set the world Aflame](dark-ending3.md)
+*You get to watch the world burn*
