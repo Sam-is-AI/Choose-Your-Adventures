@@ -18,13 +18,13 @@ The mist thickens - and three paths open before you.
 
 ## ✨ What will you do?
 
-- 🔮 [Visit the Elder's House](meeting-the-elder.md)
+- 🔮 [Visit the Elder's House](meeting-the-elder.md)  
 *Maybe the town elder knows more about the dying Lantern.*
 
-- 🍺 [Head to the Tavern](tavern.md)
+- 🍺 [Head to the Tavern](tavern.md)  
  *Locals might talk after a drink or two — if you’re willing to listen.*
 
- - 🏰 [Walk Toward the Ruined Tower](ruins-path.md)
+ - 🏰 [Walk Toward the Ruined Tower](ruins-path.md)  
  *Old magic lingers there… and perhaps old danger too.*
 
  ---

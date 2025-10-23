@@ -22,7 +22,7 @@ The tavern suddenly feels much quieter. Eyes turn toward you, waiting to see wha
 - 🔦 [Descend into the tavern cellar](cellar-secret.md)  
 *The barkeep’s warning echoes in your mind as you lift the trapdoor.*  
 
-- 🍺 [Drink some beer](start.md)
+- 🍺 [Drink some beer](start.md)  
 *You could drink this stuff for hours.*
 
 - ⬅️ [Return to the crossroads](start.md)  

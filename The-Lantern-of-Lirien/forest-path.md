@@ -12,7 +12,7 @@ The runes’ vision guides you, and a tingling sensation along your skin reminds
 
 ## 🌙 What will you do?
 
-- 🌿 [Follow the winding forest trail](forest-encounter.md)
+- 🌿 [Follow the winding forest trail](forest-encounter.md)  
 *The path twists around roots and stones, leading deeper into the heart of the forest. You feel the weight of unseen eyes upon you.*
 
 - ⚠️ [Approach the glowing area]  

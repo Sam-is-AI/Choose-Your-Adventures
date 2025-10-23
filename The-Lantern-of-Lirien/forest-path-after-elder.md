@@ -14,7 +14,7 @@ The path splits again — deeper into the trees or toward a low stone archway le
 
 ## ✨ What will you do?
 
-- 🔮 [Approach the glowing area](secret-map.md)  
+- 🔮 [Approach the glowing area](glowing-area.md)  
   *The light hums with energy. Perhaps a fragment of the Lantern’s map lies here, waiting for someone brave enough to claim it.*
 
 - ⬇️ [Enter the archway leading underground](underground.md)  

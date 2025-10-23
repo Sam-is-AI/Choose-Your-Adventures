@@ -60,7 +60,7 @@ The shadows themselves bow.
 *Let it see what true light feels like — or what remains when the dark is consumed.* 
 
 
-- 🧓 [Return to Elder Merin for answers](meeting-the-elder2.md)  
+- 🧓 [Return to Elder Merin for answers](meeting-the-elder-ending.md)  
 *Perhaps she can still save what’s left of you — or put an end to what you’ve become.*  
 
 - 🔥 [Set the world Aflame](dark-ending3.md)  

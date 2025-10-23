@@ -20,10 +20,10 @@ You hear a faint hum from the forest beyond her window — a light flickering th
 
 ## 🌙 What will you do?
 
-- 🔮[Study the glowing rune more closely](rune-discovery.md)
+- 🔮[Study the glowing rune more closely](rune-discovery.md)  
 *perhaps you can uncover its power before it fades.*
 
-- 🌲[Leave the cottage and follow the light into the forest](forest-path.md)
+- 🌲[Leave the cottage and follow the light into the forest](forest-path.md)  
 *It could lead you to the thief - or to something much worse.*  
 
 - ⬅️ [Return to the crossroads](start.md)  
