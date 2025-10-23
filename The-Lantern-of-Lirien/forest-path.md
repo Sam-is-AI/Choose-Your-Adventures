@@ -18,4 +18,5 @@ The runes’ vision guides you, and a tingling sensation along your skin reminds
 - ⚠️ [Approach the glowing area]  
   *A faint glow pulses among the roots, but you cannot discern its secrets yet. Perhaps someone with knowledge could guide you.*
 
-- ⬅️ [Return to the village crossroads](start.md)
+- 🏘️ [Return to Elder Merin for guidance](meeting-the-elder-2.md)  
+  *Perhaps she can give you more knowledge, a protective charm, or a warning of what awaits.* 

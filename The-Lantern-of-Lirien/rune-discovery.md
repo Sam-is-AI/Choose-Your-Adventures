@@ -18,5 +18,5 @@ The parchment hums again, and a soft light drifts upward, forming an image of a 
 - 🌲 [Follow the forest path shown in the vision](forest-path.md)  
   *The glowing light among the trees might lead you to the stolen Lantern — or into danger. Trust your instincts.*
 
-- 🏘️ [Return to Elder Merin for guidance](meeting-the-elder.md)  
+- 🏘️ [Return to Elder Merin for guidance](meeting-the-elder-2.md)  
   *Perhaps she can give you more knowledge, a protective charm, or a warning of what awaits.* 
